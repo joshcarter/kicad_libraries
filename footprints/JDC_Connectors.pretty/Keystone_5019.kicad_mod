@@ -1,4 +1,4 @@
-(footprint "TestPoint_Keystone_5019_Miniature"
+(footprint "Keystone_5019"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "TestPoint_Keystone_5019_Miniature"
+	(property "Value" "Keystone_5019"
 		(at 0 2.25 0)
 		(layer "F.Fab")
 		(uuid "411b5da2-28f0-4851-aa82-e12ba7994e2d")
@@ -179,7 +179,7 @@
 		(uuid "36e9b045-6d4e-4029-9fd2-a9cb2475ece3")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Josh Carter/Documents/KiCad/Libraries/Connector_Power/3D/5019.stp"
+	(model "${JDC_KICAD_LIB}/3dmodels/JDC_Connectors.3dshapes/Keystone_5019.step"
 		(offset
 			(xyz 0 0 1.2)
 		)

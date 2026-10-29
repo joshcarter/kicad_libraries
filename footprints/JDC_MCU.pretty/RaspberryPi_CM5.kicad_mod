@@ -1,4 +1,4 @@
-(footprint "Raspberry-Pi-5-Compute-Module"
+(footprint "RaspberryPi_CM5"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "Raspberry-Pi-5-Compute-Module"
+	(property "Value" "RaspberryPi_CM5"
 		(at 16.52 0.19 0)
 		(layer "F.Fab")
 		(uuid "49b1eec6-b628-4dba-a45d-27144a6b94a5")
@@ -1610,7 +1610,7 @@
 		(uuid "10bdde70-9da4-4c5a-88d7-398706ff1986")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Josh Carter/Documents/KiCad/Libraries/MCU_RaspberryPi/3D/10164227-1001a1rlf.stp"
+	(model "${JDC_KICAD_LIB}/3dmodels/JDC_MCU.3dshapes/Amphenol_10164227-1001A1RLF.step"
 		(offset
 			(xyz -0.5 21.5 0)
 		)
@@ -1621,7 +1621,7 @@
 			(xyz 0 0 90)
 		)
 	)
-	(model "C:/Users/Josh Carter/Documents/KiCad/Libraries/MCU_RaspberryPi/3D/10164227-1001a1rlf.stp"
+	(model "${JDC_KICAD_LIB}/3dmodels/JDC_MCU.3dshapes/Amphenol_10164227-1001A1RLF.step"
 		(offset
 			(xyz 33.5 21.5 0)
 		)

@@ -1,4 +1,4 @@
-(footprint "RPi_Pico_SMD_TH"
+(footprint "RaspberryPi_Pico_SMD_TH"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "RPi_Pico_SMD_TH"
+	(property "Value" "RaspberryPi_Pico_SMD_TH"
 		(at 0 2.159 0)
 		(layer "F.Fab")
 		(uuid "46cbe85d-ff47-428e-b187-4ebd50a66e0c")
@@ -1904,7 +1904,7 @@
 		(uuid "aadc3df5-0e2d-4f3d-b72e-6f184da74c89")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Josh Carter/Documents/KiCad/Libraries/MCU_RaspberryPi/3D/Pico.wrl"
+	(model "${JDC_KICAD_LIB}/3dmodels/JDC_MCU.3dshapes/RaspberryPi_Pico.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

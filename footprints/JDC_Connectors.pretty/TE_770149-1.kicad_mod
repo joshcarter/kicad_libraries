@@ -1,4 +1,4 @@
-(footprint "7701491"
+(footprint "TE_770149-1"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "7701491"
+	(property "Value" "TE_770149-1"
 		(at 0 0.953 0)
 		(layer "F.SilkS")
 		(hide yes)
@@ -402,7 +402,7 @@
 		(uuid "ffa76bbd-4524-4b62-a1b5-018ff0b2fcd4")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Josh Carter/Documents/KiCad/Libraries/Connector_Power/3D/770149-1.stp"
+	(model "${JDC_KICAD_LIB}/3dmodels/JDC_Connectors.3dshapes/TE_770149-1.step"
 		(offset
 			(xyz 0 5.699999724 4.610000064)
 		)
